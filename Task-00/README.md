@@ -1,0 +1,2 @@
+# Task-00: Install Linux
+I have been using linux for the past 2 years, so I feel like I already have this done. It wasn't completely trouble free but most were just issues I could solve with a little bit of googling, and I didn't really have anything to keep me on windows.
