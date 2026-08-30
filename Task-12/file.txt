@@ -1,0 +1,5 @@
+Hi this is a text file
+Some more text here
+
+new text being added
+more new text

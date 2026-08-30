@@ -1,0 +1,4 @@
+pillow
+screeninfo
+ruff
+pyright
